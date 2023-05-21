@@ -39,3 +39,9 @@ Matlab 实现基于均匀权重的 Tutte 参数化。
 C++ 实现 Laplace 网格变形算法。
 
 参考文献：*Sorkine, O.: Laplacian mesh processing. In: Eurographics (State of the Art Reports). pp. 53–70. Citeseer (2005)*
+
+### **6.【Bézier】**
+
+2023-5-12-update
+
+Matlab 实现 De Casteljau 算法绘制二维 Bézier 曲线。
